@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/aibyp/DSACHALLENGE/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aibyp/DSACHALLENGE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/aibyp/DSACHALLENGE/tree/main/0283-move-zeroes/) | Easy |
+| [0605-can-place-flowers](https://github.com/aibyp/DSACHALLENGE/tree/main/0605-can-place-flowers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aibyp/DSACHALLENGE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -32,4 +33,8 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/aibyp/DSACHALLENGE/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/aibyp/DSACHALLENGE/tree/main/0344-reverse-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/aibyp/DSACHALLENGE/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
