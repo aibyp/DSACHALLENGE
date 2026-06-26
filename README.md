@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/aibyp/DSACHALLENGE/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/aibyp/DSACHALLENGE/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aibyp/DSACHALLENGE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aibyp/DSACHALLENGE/tree/main/0027-remove-element/) | Easy |
@@ -14,6 +15,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/aibyp/DSACHALLENGE/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/aibyp/DSACHALLENGE/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aibyp/DSACHALLENGE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aibyp/DSACHALLENGE/tree/main/0027-remove-element/) | Easy |
@@ -36,5 +38,6 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/aibyp/DSACHALLENGE/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/aibyp/DSACHALLENGE/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
