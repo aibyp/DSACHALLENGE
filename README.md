@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/aibyp/DSACHALLENGE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/aibyp/DSACHALLENGE/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/aibyp/DSACHALLENGE/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/aibyp/DSACHALLENGE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aibyp/DSACHALLENGE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -40,4 +41,8 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/aibyp/DSACHALLENGE/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/aibyp/DSACHALLENGE/tree/main/0605-can-place-flowers/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aibyp/DSACHALLENGE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
