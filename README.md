@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/aibyp/DSACHALLENGE/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/aibyp/DSACHALLENGE/tree/main/0344-reverse-string/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aibyp/DSACHALLENGE/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aibyp/DSACHALLENGE/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aibyp/DSACHALLENGE/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
